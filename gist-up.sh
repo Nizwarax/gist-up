@@ -1,4 +1,3 @@
-cat > ~/gist-manager.sh << 'EOF'
 #!/bin/bash
 
 # Colors (sesuai preferensi biru-ungu)
