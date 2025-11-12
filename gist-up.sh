@@ -126,6 +126,3 @@ while true; do
             ;;
     esac
 done
-EOF
-
-chmod +x ~/gist-manager.sh
